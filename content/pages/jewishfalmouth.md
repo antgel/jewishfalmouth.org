@@ -1,8 +1,9 @@
-Title: Echoes of 1800s Jewry in an unexpected corner of the UK
 gallery: {photo}synagogue
+opengraph_image: photos/synagogue/sign.jpg
 save_as: index.html
 Scripts: jquery-3.3.1.min.js, lightbox.js
 Styles: lightbox.css
+Title: Echoes of 1800s Jewry in an unexpected corner of the UK
 
 # Who am I and what is this?
 

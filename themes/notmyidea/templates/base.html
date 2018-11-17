@@ -4,12 +4,28 @@
         <meta charset="utf-8" />
         <title>{% block title %}{{ SITENAME }}{%endblock%}</title>
         <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/{{ CSS_FILE }}" />
-        {% if page %}
+        {% if article is defined %}
+            {% if article.styles %}
+                {% for style in article.styles %}
+                    {{ style }}
+                {% endfor %}
+            {% endif %}
+            <meta property="og:type" content="article" />
+            <meta property="og:url" content="{{ SITEURL }}/{{ article.url }}" />
+            <meta property="og:title" content="{{ article.title | replace("\"", "&quot;") }}" />
+            <meta property="og:description" content="{{ article.content | striptags | replace("\"", "&quot;") | truncate(196, False, '...') }}" />
+            <meta property="og:image" content="{{ SITEURL }}/{% if article.opengraph_image is defined %}{{ article.opengraph_image }}{% else %}opengraph-default.jpg{% endif %}" />
+        {% elif page is defined %}
             {% if page.styles %}
                 {% for style in page.styles %}
                     {{ style }}
                 {% endfor %}
             {% endif %}
+            <meta property="og:type" content="website" />
+            <meta property="og:url" content="{{ SITEURL }}/{{ page.url }}" />
+            <meta property="og:title" content="{{ SITENAME }} - {{ page.title | replace("\"", "&quot;") }}" />
+            <meta property="og:description" content="{{ page.content | striptags | replace("\"", "&quot;") | truncate(196, False, '...') }}" />
+            <meta property="og:image" content="{{ SITEURL }}/{% if page.opengraph_image is defined %}{{ page.opengraph_image }}{% else %}opengraph-default.jpg{% endif %}" />
         {% endif %}
         {% if FEED_ALL_ATOM %}
         <link href="{{ FEED_DOMAIN }}/{% if FEED_ALL_ATOM_URL %}{{ FEED_ALL_ATOM_URL }}{% else %}{{ FEED_ALL_ATOM }}{% endif %}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Atom Feed" />
