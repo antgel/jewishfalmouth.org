@@ -4,14 +4,15 @@ save_as: index.html
 Scripts: jquery-3.3.1.min.js, lightbox.js
 Styles: lightbox.css
 Title: Echoes of 1800s Jewry in an unexpected corner of the UK
+url: ""
 
 # Who am I and what is this?
 
 I am a Jew with connections to the UK (born) and Israel (home).
-In January 2018, I booked tickets to go back to the UK in
-October 2018 to see some of my favourite bands, family, and friends.
+In early 2018, I booked flights to the UK for October to see live music,
+family, and friends.
 
-I originally planned to visit London. As the time got nearer, I was
+I originally planned to visit London. As the trip drew closer, I was
 notified that my company would close for the week before my trip due
 to the [Sukkot (Tabernacles)](https://en.wikipedia.org/wiki/Sukkot)
 holiday. I took advantage and moved my outbound flight to a
@@ -50,7 +51,7 @@ artist, and:
 > on the edge of town, by the Sainsbury's?"
 
 Of course I didn't, and my curiosity was piqued. I'm not a history buff,
-and the most I know about the history of UK Jews is that for much of the
+all I know about the history of UK Jewry is that for much of the
 last thousand years we variously hid our light under a bushel [^2], and
 were persecuted and expelled, until the [1800s
 emancipation](https://en.wikipedia.org/wiki/Emancipation_of_the_Jews_in_the_United_Kingdom)
@@ -66,17 +67,17 @@ even smaller areas of Manchester, Leeds, and other places that it
 doesn't seem rational to live in.
 
 As you can tell from the above, I'm of
-[Ashkenazi](https://en.wikipedia.org/wiki/Ashkenazi_Jews) origin, hence
-it's pretty normal to ruin a delightful holiday with a visit to a
-disused cemetery that time forgot.
+[Ashkenazi](https://en.wikipedia.org/wiki/Ashkenazi_Jews) origin, which
+makes it somewhere between normal and expected to ruin a delightful
+holiday with a visit to a disused cemetery that time forgot.
 
 I opened Google Maps and started walking.
 
 # Cemetery
 
-Around 2.5km and half an hour later, I'd found the Sainsbury's
-supermarket, with a small industrial estate next door. I came across an
-overgrown area with a locked gate, beyond which were some graves! Yay!
+Around 2.5km and half an hour later, I found the Sainsbury's
+supermarket and a small industrial estate next door. I came across an
+overgrown area with a locked gate and graves behind it. Yay!
 
 Upon closer inspection, there was a sign on the gate saying that the
 [Dissenters Burying Ground](#dissenters) was closed, essentially due to
@@ -88,7 +89,7 @@ Not knowing anything about Dissenters except that they weren't Jews, I
 turned around and asked in the industrial estate. No clues. But I
 couldn't give up. There was a small area between the Dissenters cemetery
 and a new housing development on the other side, but I couldn't get
-in to see if that was the holy grail.
+in to see if that was the holy grail I'd been looking for.
 
 I walked back out onto Falmouth Road to try and get in another
 way. I found a blocked entrance which backed onto the same area, but
@@ -113,21 +114,21 @@ glass is half-full or half-empty.
 ![Cemetery stairs down]({lightbox}cemetery/stairs-2.jpg)
 
 I found myself in the other side of the Dissenters Cemetery, and over to
-my right, past a crumbling wall, more graves! This was looking "good".
+my right, past a crumbling wall, more graves. This was looking "good".
 
 ## Corner and side views
 
-Cemeteries are strange creations, a relic of a time when most
+Cemeteries are strange beasts, a relic of a time when most
 people were convinced that there had to be some greater force at work.
 And yet, why not honour our loved ones? It would take a brave person to
 suggest that we start treating mortal human remains in the same way that
-we treat any others. Which is when it hit me.
+we treat any others. Which is when it hit me...
 
 My excitement at connecting with this historical byline was tempered by
 a dark, sombre mood as the heartbreaking neglect, vandalism, and disrepair,
 came into focus. Cemeteries in London and Israel are generally in good
-shape and implicitly reflect the idea that we live forever. This was real,
-and nature will win in the end.
+shape and implicitly reflect the fallacy that we live forever. But this
+was real, showing how nature will win in the end.
 
 ![Cemetery corner view 1]({lightbox}cemetery/view-corner-01.jpg)
 ![Cemetery corner view 2]({lightbox}cemetery/view-corner-02.jpg)
@@ -135,7 +136,7 @@ and nature will win in the end.
 
 ## Closer views
 
-Unlike modern-day UK Jewish headstones, many of these were exclusively
+Unlike modern UK Jewish headstones, many of these were exclusively
 written in Hebrew, although newer ones were bilingual.
 
 ![Cemetery graves 1]({lightbox}cemetery/graves-01.jpg)
@@ -144,7 +145,7 @@ written in Hebrew, although newer ones were bilingual.
 ## Individual graves
 
 Everything is so eroded, it's hard to make much out. Barry Hyman and
-David Liss contributed some better photos (did they clean the
+David Liss contributed better photos (did they clean the
 headstones?) to the corresponding page on [Cemetery
 Scribes](http://www.cemeteryscribes.com/showmap.php?cemeteryID=61) [^3],
 which also mentions Keith Pearce's book [The Lost Jews of
@@ -189,8 +190,8 @@ the eastern end of the street [^4] and... nothing. Disheartened,
 I carried on walking to the nearby (excellent) [Jacob's Ladder
 Inn](http://www.thejacobsladderinn.co.uk/) for a refreshing beverage. 
 
-A few metres later, as I reached Vernon Place, the continuation of
-Gyllyng Street, lo and behold, there she was.
+A few metres later I reached Vernon Place, the continuation of
+Gyllyng Street. Lo and behold, there she was.
 
 Google Streetmaps does the job again:
 
@@ -240,12 +241,11 @@ Jewish people, and a reminder to make the most of now.
 
 It turned out to be a great idea to visit this lovely part of the world,
 with its innocent, unspoilt feel, great people, history, food, drink,
-and nightlife.  Yet I came across an unexpected poignant surprise which
-left a lump in my throat.  There isn't much information on the Internet
+and nightlife. Yet I came across an unexpected poignant surprise which
+left a lump in my throat. There isn't much information on the Internet
 about it, and most of what there is, is hard to read and / or hidden on
-obscure historical websites.
-
-That's why I created this site as part history, part memorial.
+obscure historical websites. That's why I created this site as part
+history, part memorial.
 
 # Other references
 
