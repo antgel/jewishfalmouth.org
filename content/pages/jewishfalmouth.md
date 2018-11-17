@@ -39,12 +39,12 @@ I'd have taken a better photo.)
 It's fascinating how Israelis get around, for a country with a
 population of eight million people. I can barely spend time in
 London without hearing Hebrew on the street, even once in the queue
-at Primark Watford! (I don't shop there any more, the quality is
-pathetic. ;))
+at Primark Watford...
 
 But in sleepy Falmouth? I had to find out more. I went into the gallery
-and spoke to the lady behind the counter. I explained what caught my
-eye, and she told me that Assaf (Frank) is indeed an Israeli artist, and:
+and spoke to the lady behind the counter, explaining what had caught my
+eye. She told me that אסף פרנק (Assaf Frank) is indeed an Israeli
+artist, and:
 
 > "You're a tourist? Did you know that there is an old Jewish cemetery
 > on the edge of town, by the Sainsbury's?"
@@ -55,8 +55,8 @@ last thousand years we variously hid our light under a bushel [^2], and
 were persecuted and expelled, until the [1800s
 emancipation](https://en.wikipedia.org/wiki/Emancipation_of_the_Jews_in_the_United_Kingdom)
 when life started to look up. Conversely, from the early part of the
-20th century, life started to look down for European Jews, many of whom
-(such as my great-grandparents) made their way to the UK in search of
+20th century, life started to look _down_ for European Jews, many of whom
+(e.g. my great-grandparents) made their way to the UK in search of
 not a better life, rather any life.
 
 And yet, Falmouth? Today's UK Jews are almost entirely city-based,
@@ -90,9 +90,9 @@ couldn't give up. There was a small area between the Dissenters cemetery
 and a new housing development on the other side, but I couldn't get
 in to see if that was the holy grail.
 
-I walked back out onto Falmouth Road to see if I could get in another
-way. I found this entrance which backed onto the same area, and the
-climb was easier. I was in.
+I walked back out onto Falmouth Road to try and get in another
+way. I found a blocked entrance which backed onto the same area, but
+fences are made to climb. I was in.
 
 Google Streetmaps link for the interested (click on "View on Google
 Maps" to see the exact location):
@@ -121,7 +121,7 @@ Cemeteries are strange creations, a relic of a time when most
 people were convinced that there had to be some greater force at work.
 And yet, why not honour our loved ones? It would take a brave person to
 suggest that we start treating mortal human remains in the same way that
-we treat any others. Which is why it hit me.
+we treat any others. Which is when it hit me.
 
 My excitement at connecting with this historical byline was tempered by
 a dark, sombre mood as the heartbreaking neglect, vandalism, and disrepair,
@@ -136,7 +136,7 @@ and nature will win in the end.
 ## Closer views
 
 Unlike modern-day UK Jewish headstones, many of these were exclusively
-written in Hebrew.
+written in Hebrew, although newer ones were bilingual.
 
 ![Cemetery graves 1]({lightbox}cemetery/graves-01.jpg)
 ![Cemetery graves 2]({lightbox}cemetery/graves-02.jpg)
@@ -223,17 +223,16 @@ synagogue is the red building on the far right.
 
 ![Synagogue panorama]({lightbox}synagogue/panorama.jpg)
 
-According to the
-[Wikipedia entry on the
+According to the [Wikipedia entry on the
 synagogue](https://en.wikipedia.org/wiki/Falmouth_Synagogue):
 
 > Its commanding location, with a fine view of Falmouth harbour, is said
 > to have been so that Jewish merchants could observe their ships
 > entering and leaving the harbour.
 
-After all that searching, it was right under my nose, we had the same
+After all that, it had been right under my nose, we shared the same
 view. I can hear my superstitious Ashkenazi forebears saying this
-whole unplanned saga was "beshert", Yiddish for "destined".  For me,
+whole unplanned saga was _beshert_, Yiddish for _destined_.  For me,
 it's simply a reflection of the wandering nature of the somehow-enduring
 Jewish people, and a reminder to make the most of now.
 
