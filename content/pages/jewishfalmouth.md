@@ -1,12 +1,10 @@
-gallery: {photo}synagogue
-opengraph_image: photos/synagogue/sign.jpg
+image: {photo}town/harbour-view-1280x375.jpg
+og_image: photos/synagogue/sign.jpg
 save_as: index.html
-Scripts: jquery-3.3.1.min.js, lightbox.js
-Styles: lightbox.css
-Title: Echoes of 1800s Jewry in an unexpected corner of the UK
+Title: Echoes of 1800s Jewry in a sleepy UK town
 url: ""
 
-# Who am I and what is this?
+## Who am I and what is this?
 
 I am a Jew with connections to the UK (born) and Israel (home).
 In early 2018, I booked flights to the UK for October to see live music,

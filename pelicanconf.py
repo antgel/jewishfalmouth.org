@@ -35,7 +35,7 @@ DEFAULT_PAGINATION = 10
 # RELATIVE_URLS = True
 
 PLUGIN_PATHS = ['../pelican-plugins']
-PLUGINS = ['pelican_dynamic', 'photos']
+PLUGINS = ['i18n_subsites', 'photos']
 
 DISPLAY_PAGES_ON_MENU = False
 
@@ -45,4 +45,15 @@ PHOTO_RESIZE_JOBS = 4
 PHOTO_EXIF_KEEP = True
 PHOTO_EXIF_REMOVE_GPS = False
 
-THEME = 'themes/notmyidea'
+THEME = '../pelican-themes-antgel/pelican-bootstrap3'
+JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
+I18N_TEMPLATES_LANG = 'en'
+BOOTSTRAP_THEME = 'journal'
+CUSTOM_CSS = 'css/lightbox.css'
+CUSTOM_JS = 'js/custom.js'
+HIDE_SITENAME = True
+BANNER = 'photos/town/harbour-view-1280x375a.jpg'
+BANNER_ALL_PAGES = True
+# BOOTSTRAP_FLUID = False
+# HIDE_SIDEBAR = False
+PADDED_SINGLE_COLUMN_STYLE = True
