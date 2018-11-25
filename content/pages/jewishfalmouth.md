@@ -265,6 +265,8 @@ an audio feature by Falmouth student Gideon Goldberg.
 [^1]: It turns out that the piece is a hand-finished resin on
 glass print, called "Let The Evening Be Gin III", and you can order it
 [here](https://cornwallartgalleries.com/products/let-the-evening-be-gin-lll-assaf-frank).
+If you want to know more about Assaf's work, check out [his
+website](https://www.assaffrank.com/).
 [^2]: That was an unexpected New Testament reference.
 [^3]: This is bad enough, but who starts a website dedicated to
   cemeteries?
