@@ -8,6 +8,7 @@ pelican = {extras = ["markdown"], version = "*"}
 pelican-i18n-subsites = "*"
 piexif = "*"
 pillow = "*"
+pelican-photos = "*"
 
 [dev-packages]
 
