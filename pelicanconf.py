@@ -45,7 +45,7 @@ PHOTO_RESIZE_JOBS = 4
 PHOTO_EXIF_KEEP = True
 PHOTO_EXIF_REMOVE_GPS = False
 
-THEME = '../pelican-themes-antgel/pelican-bootstrap3'
+THEME = 'pelican-bootstrap3'
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
 I18N_TEMPLATES_LANG = 'en'
 BOOTSTRAP_THEME = 'journal'
