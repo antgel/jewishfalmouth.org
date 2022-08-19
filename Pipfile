@@ -9,6 +9,7 @@ pelican-i18n-subsites = "*"
 piexif = "*"
 pillow = "*"
 pelican-photos = "*"
+importlib-metadata = "*"
 
 [dev-packages]
 
