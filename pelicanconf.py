@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'Antony Gelberg'
+AUTHOR = u'Antony Gelberg 2018-2022'
 SITENAME = u'Jewish Falmouth'
 SITEURL = ''
 
